@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Microsoft Fabric Copilot Experience for Report Building",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Ingram-Fabric-demo-HOL/",
+    "Files": [
+			{
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Ingram-Fabric-demo-HOL/refs/heads/main/overview.md",
+        "Order": 0
+      },
+
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Ingram-Fabric-demo-HOL/refs/heads/main/exercise1.md",
+        "Order": 1
+      },
+
+			{
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Ingram-Fabric-demo-HOL/refs/heads/main/exercise2.md",
+        "Order": 2
+      }
+
+    ]
+  }
+]
