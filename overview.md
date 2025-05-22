@@ -23,7 +23,7 @@ Welcome to your Microsoft Fabric Copilot Experience for Report Building! We've p
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
-![](./Media/23042025(2).png)
+![](media/23042025(2).png)
 
 ### Virtual Machine & Lab Guide
  
@@ -33,7 +33,7 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![](./Media/23042025(3).png)
+![](media/23042025(3).png)
 
 ### Utilizing the Split Window Feature
 
@@ -51,25 +51,25 @@ Feel free to start, stop, or restart your virtual machine as needed from the Res
 
 To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
 
-![alt text](media\image-1.png)
+![alt text](media/image-1.png)
 
 ### Let's Get Started with Power BI Portal
  
 1. On your virtual machine, click on the **Power BI Portal** icon as shown below:
  
-   ![](./Media/23042025(6).png)
+   ![](media/23042025(6).png)
 
 2. On the **Enter your email, we'll check if you need to create a new account** tab you will see the login screen, in that enter the following email/username, and click on **Submit**.
  
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
  
-     ![](./Media/23042025(7).png)
+     ![](media/23042025(7).png)
  
 3. Now enter the following password and click on **Sign in**.
  
    - **Password:** <inject key="AzureAdUserPassword"></inject>
  
-     ![](./Media/23042025(8).png)
+     ![](media/23042025(8).png)
      
 1. If you see the pop-up **Stay Signed in?**, select **No**.
 
@@ -77,7 +77,7 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
 1. You should be able to view the Power BI Portal.
 
-   ![](./Media/23042025(10).png)
+   ![](media/23042025(10).png)
 
 
 ### Setting up the Microsoft Fabric Capacity in the workspace.
