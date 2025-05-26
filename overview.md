@@ -5,7 +5,7 @@ Copilot and other generative AI features in preview bring new ways to transform 
 
 Copilot in Microsoft Fabric is a generative AI assistive technology that aims to enhance the data analytics experience in the Fabric platform for users. Copilot leverages large-language models (LLMs) that attempt to facilitate user interaction with their data and items in Fabric. People who use Copilot can include people who create, manage, and consume Fabric items, including enterprise developers, self-service users, and business users.
 
-![](media/fabric-copilot-users-diagram.svg)
+![](media/fabric-copilot-users-diagram.png)
 
 ### Copilot in Fabric in the Power BI workload
 
@@ -13,7 +13,9 @@ Power BI has introduced generative AI that allows you to create reports automati
 
 In Power BI, Copilot helps you use the transformational power of generative AI to get the most from your data. We have chat-based experiences where Copilot can help you with tasks from on-the-fly analysis for business users to data analysis expression (DAX) generation for advanced creators. We also have various AI-infused Copilot features throughout the product.
 
-To begin exploring Microsoft Fabric Copilot for Reports, this task focuses on understanding and analyzing a sample report using natural language prompts. Copilot allows users to interact with the report by asking questions, generating summaries, and identifying trends or outliers without needing deep technical skills. This hands-on activity will help you experience how Copilot simplifies report exploration, guides interpretation of visuals, and enhances overall data comprehension through conversational AI.
+To begin exploring Microsoft Fabric Copilot for Reports, this lab focuses on understanding and analyzing a sample report using natural language prompts. Copilot allows users to interact with the report by asking questions, generating summaries, and identifying trends or outliers without needing deep technical skills. 
+
+This hands-on activity will help you experience how Copilot simplifies report exploration, guides interpretation of visuals, and enhances overall data comprehension through conversational AI.
 
 ### Getting Started with the Lab
 
@@ -73,11 +75,11 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
      
 1. If you see the pop-up **Stay Signed in?**, select **No**.
 
-   ![](./Media/23042025(9).png)
+    ![](media/23042025(9).png)
 
 1. You should be able to view the Power BI Portal.
 
-   ![](media/23042025(10).png)
+    ![](media/23042025(10).png)
 
 
 ### Setting up the Microsoft Fabric Capacity in the workspace.
@@ -107,6 +109,10 @@ Setting up Microsoft Fabric Capacity is essential to enable Copilot features in 
 4. In the license info page scroll down to **Fabric capacity** and click on the **Radio Button** to select. Under the **License Capacity** select the **<inject key= "fabriccapacity" enableCopy="false"/>** and click on the **Select license** button.
 
     ![Image](media/1.4.png)
+
+5. Verify the Fabric Capacity is successfully assigned, and click on the **x** icon to close the Workspace settings.
+
+    ![Image](media/overview.6.png)
 
 Here now we have successfully selected the Fabric Capacity for the workspace. Now lets explore Copilot features!
 
