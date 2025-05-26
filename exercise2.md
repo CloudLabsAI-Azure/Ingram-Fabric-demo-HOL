@@ -87,4 +87,4 @@ See how easy it was to get an executive summary with absolutely no IT resource d
 
 The summary could also be generated in another language if specified. Additionally, the summary updates if you filter the report on any visual.
 
-We have explored the capabilities of Microsoft Fabric Copilot in enhancing data analysis and report generation. Using an existing sales sample-report, participants learned how to interact with Copilot to generate insights, analyze customer demographics, and uncover actionable business trends through natural language prompts and DAX-powered queries.
+We have explored the capabilities of Microsoft Fabric Copilot in enhancing data analysis and report generation. Using an existing sales sample-report, we have learnt how to interact with Copilot to generate insights, analyze customer demographics, and uncover actionable business trends through natural language prompts and DAX-powered queries.
