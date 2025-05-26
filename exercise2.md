@@ -79,6 +79,8 @@ The first option, 'What’s in my data?' provides an overview of the contents of
 
 14. Observe the **Narative Summary** is updated with new Summary, and Click on the Close button in the pop-up window.
 
+    >**Note**: If a **Refresh** button appears in the summary, click it to view the updated summary changes.
+
     ![Image](media1/2.14.png)
 
 See how easy it was to get an executive summary with absolutely no IT resource dependency!
