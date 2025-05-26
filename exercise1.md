@@ -65,6 +65,14 @@ To gain deeper insights from the report, perform advanced calculations, and gene
     ```
     Compare the sales of Packaging Materials between Wingtip Toys and Tailspin Toys, and present the difference as a percentage.
     ```
+    >**Note**: If the above prompt doesn't return the expected result, try the alternative below. Copilot responses may vary by session. The next prompt is more precise and requests the DAX query with an explanation.
+
+    ```
+    Compare the sales of Packaging Materials between Wingtip Toys and Tailspin Toys.Show the result in a table format with three columns:
+    Wingtip Toys Sales, Tailspin Toys Sales, and Difference (%).
+    Also include a short summary explaining the difference and how the percentage was calculated. Provide the DAX used to reach the result.
+    ```
+
     ![](media1/1.11.png)
 
 12. Now, let’s closely examine the results provided by Copilot along with a brief description of the insights generated.
