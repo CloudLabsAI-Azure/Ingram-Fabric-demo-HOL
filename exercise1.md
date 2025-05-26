@@ -14,6 +14,8 @@ Use Microsoft Fabric Copilot to understand and analyze an existing report using 
 
 3. Click on the **Copilot** button on the Copilot popup click on **Get Started**.
 
+    >**Note**: Please ensure that the **Preview** toggle button is turned off for now.
+
     ![](media1/1.3.png)
 
 4. Lets Summrize the report using the copilot. Click on the option **Give me an executive summary**. 
